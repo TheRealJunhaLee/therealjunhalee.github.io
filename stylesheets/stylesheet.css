@@ -1,0 +1,123 @@
+
+body {
+    background: #111111;
+    color: #EEEEEE;
+    margin: 0px;
+    margin-top: -20px;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+header {
+    padding: 2%;
+    background: #000000;
+    text-align: center;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+nav {
+    background: #222222;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+section {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 30px;
+    font-size: 18px;
+}
+
+p {
+    text-shadow: none;
+    -o-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+p:hover {
+    text-shadow: 2px 2px 5px green;
+    -o-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+h1 {
+    font-size: 40px;
+    text-shadow: none;
+    -o-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+h1:hover {
+    font-size: 40px;
+    text-shadow: 2px 2px 5px green;
+    -o-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+h2 {
+    font-size: 30px;
+    font-variant: small-caps;
+    text-shadow: none;
+    -o-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+h2:hover {
+    font-size: 30px;
+    font-variant: small-caps;
+    text-shadow: 2px 2px 5px green;
+    -o-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+ 
+a {
+    color: #DDDDDD;
+    text-shadow: none;
+    text-decoration: none;
+    -o-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+a:hover {
+    color:#FFFFFF;
+    text-shadow: 2px 2px 5px green;
+    text-decoration: none;
+    -o-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+footer {
+    background: #222222;
+    padding: 20px;
+    text-shadow: none;
+    -o-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+footer:hover {
+    background: #222222;
+    padding: 20px;
+    text-shadow: 2px 2px 5px green;
+    -o-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
