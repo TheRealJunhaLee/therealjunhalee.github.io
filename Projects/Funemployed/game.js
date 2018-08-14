@@ -8,8 +8,8 @@ var keys = [];
 var clicked = false;
 var mousePos = {};
 
-var jobs = ["sewer\ncleaner", "chimney\nsweep"];
-var traits = ["obsessive\nfoot\nwasher", "germaphobe", "fecal\nmatter", "garbage", "lipstick\nstain", "blacklight"];
+var jobs = ["sewer\ncleaner", "chimney\nsweep", "construction\nworker", "hotel\nhousekeeper", "pool\ncleaner", "window\nwasher", "meat\nprocessor", "horse\ninseminator", "e.r.\nnurse", "dog\ngroomer", "oil\nrig\nworker", "mortician", "maggot\nfarmer", "dishwasher", "sperm\nbank\njanitor", "esthecian/\nwaxer", "coal\nminer", "scrap yard\nworker"];
+var traits = ["obsessive\nfoot\nwasher", "germaphobe", "fecal\nmatter", "garbage", "lipstick\nstain", "blacklight", "vegetarian", "really\nloves\nblood", "sharp\nknives", "allergic\nto\neverything", "moderately\ngood\nin\nbed", "bad\nunder\npressure", "resourceful", "can\nswallow\nanything", "dirty\nmind", "player", "target\npractice", "snake", "eggplant", "afraid\nof\nwater", "skin\nsamples", "dumpster\ndiver", "only\neats\nblue\nfood", "bikini\nseason", "bald\neagle", "comes\nin\nspurts", "prickly", "word\nvomit", "always\nhungry", "big\nshoes", "airtight", "super\nstressed", "nasty\nrash", "smuggled\ngoods", "daredevil", "living\na\nlie", "anal\nglands", "manicured\nnails", "sexy\ntime", "jerk\nmagnet", "smells\nlike\nonion", "dark\nroom", "bleached\nblonde", "disorganized", "full\nof\nfear", "bathes\nin\nbleach", "likes\nto play\ngames", "fluids", "soap", "chemicals", "big\nnet", "glorious\nmane", "squeegee", "uniform", "comfortable\nshoes", "avid\nreader", "lives\nin own\nreality", "reservations", "pivot", "glitter\nburps"];
 var traitsInRotation = traits.slice(0);
 
 function init() {
